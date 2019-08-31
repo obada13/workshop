@@ -1,0 +1,117 @@
+---
+title: "git_00"
+author: "Bada Math_116"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->  
+
+"OU are old, Father William," the young man said,
+
+"And your hair has become very white;
+
+And yet you incessantly stand on your head-- 
+
+Do you think, at your age, it is right?" 
+
+ 
+"In my youth," Father William replied to his son,
+
+## Second Verse
+
+<!--Put the first five lines of a poem by Robert Frost here!-->
+Out through the fields and the woods  
+
+And over the walls I have wended;  
+   
+I have climbed the hills of view  
+
+And looked at the world, and descended;  
+   
+I have come by the highway home,
+  
+  
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea, 
+
+Shining with all his might: 
+
+He did his very best to make  
+
+The billows smooth and bright-- 
+
+And this was odd, because it was 
+
+The middle of the night.  
+  
+The moon was shining sulkily, 
+
+Because she thought the sun
+
+Had got no business to be there  
+
+After the day was done-- 
+
+"It's very rude of him," she said, 
+
+"To come and spoil the fun!" 
+
+  
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->  
+
+The city had withdrawn into itself   
+
+And left at last the country to the country;  
+
+When between whirls of snow not come to lie    
+
+And whirls of foliage not yet laid, there drove   
+
+A stranger to our yard, who looked the city,    
+
+Yet did in country fashion in that there    
+
+He sat and waited till he drew us out,    
+
+A-buttoning coats, to ask him who he was.   
+
+He proved to be the city come again   
+
+To look for something it had left behind   
+
+And could not do without and keep its Christmas.  
+
+He asked if I would sell my Christmas trees;  
+
+My woods—the young fir balsams like a place   
+
+Where houses all are churches and have spires.  
+
+I hadn't thought of them as Christmas trees.    
+
+I doubt if I was tempted for a moment    
+
+To sell them off their feet to go in cars    
+
+And leave the slope behind the house all bare,   
+
+Where the sun shines now no warmer than the moon.    
+
+I'd hate to have them know it if I was.    
+
+Yet more I'd hate to hold my trees, except  
+
